@@ -15223,7 +15223,7 @@ button.btn.btn-large {
 /*---------------------------------------------------*/
 /*	09) SHANE CURSOR
 /*---------------------------------------------------*/
-.mouse-cursor {
+/* .mouse-cursor {
     position: fixed;
     left: 0;
     top: 0;
@@ -15232,7 +15232,7 @@ button.btn.btn-large {
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
     visibility: hidden;
-}
+} */
 
 .cursor-inner {
     margin-left: -3px;
